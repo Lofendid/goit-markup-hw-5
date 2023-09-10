@@ -672,10 +672,6 @@ img {
     border: none;
 }
 
-.original-checkbox:focus + .review-label>.custom-checkbox {
-    outline: 2px solid #404BBF;
-}
-
 .review-link {
     display: inline-block;
     margin-left: 0.7%;
