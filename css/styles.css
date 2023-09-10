@@ -498,7 +498,7 @@ img {
 
 /* Modal */
 
-.review-container {
+.backdrop {
     position: fixed;
     top: 0;
     left: 0;
